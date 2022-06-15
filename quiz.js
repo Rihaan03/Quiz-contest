@@ -90,7 +90,7 @@ submit.addEventListener('click',()=>{
      
      else{
          
-        document.write(msg);
+        alert(msg);
        
         
 
