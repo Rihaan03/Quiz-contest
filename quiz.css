@@ -49,3 +49,6 @@ input{
     font-size: 150%;
     color:brown;
 }
+#submit{
+    background-color: red;
+}
